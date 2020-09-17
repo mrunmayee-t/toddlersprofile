@@ -1,0 +1,28 @@
+.footer-span {
+    font-weight: 400;
+    font-family: baby_monsta;
+    font-size: 20px;
+    float: right;
+    margin-top: 3%;
+    color: rgb(70, 199, 226) !important;
+
+}
+
+.footer-div {
+    width: 100%;
+    height: 45px;
+    position: absolute;
+    /* position: fixed;
+    left: 0;
+    bottom: 0; */
+}
+
+.btn-logo-footer {
+    width: 44%;
+    margin-left: -9%;
+}
+
+.btn-logo-footer-star {
+    width: 5%;
+    transform: translate(-36px, -28px)rotate(25deg);
+}

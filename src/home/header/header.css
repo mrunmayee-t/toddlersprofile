@@ -1,0 +1,87 @@
+@font-face {
+  font-family: luna;
+  src: url(../../assets/font/luna-1/Luna.ttf);
+}
+
+@font-face {
+  font-family: baby_monsta;
+  src: url(../../assets/font/baby-monsta/Baby\ Monsta.otf);
+}
+
+@font-face {
+  font-family: baby_monsta_inner;
+  src: url(../../assets/font/baby-monsta/Baby\ Monsta\ Inner.otf);
+}
+
+body {
+  background-image: url("../../assets/images/bg1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.container {
+  width: 100% !important;
+}
+
+.main-logo {
+  width: 25%;
+  margin-left: -7%;
+}
+
+.header-nav {
+  background: transparent;
+  box-shadow: none;
+}
+
+nav ul a {
+  /* color: rgb(70, 199, 226);
+  font-family: baby_monsta;
+  margin-top: 1%; */
+}
+
+nav ul a:hover {
+  color: #ffffff !important;
+  /* background-color: rgb(70, 199, 226) !important; */
+  background: transparent;
+  text-decoration: none;
+}
+
+.main-container {
+  background-image: url("../../assets/images/7ee496be-e5de-40d7-97ba-98b2220512bd.JPG");
+}
+
+.menu-logo {
+  width: 68%
+}
+
+nav ul li {
+  float: none !important;
+}
+
+.logo-div {
+  padding: 10px;
+}
+
+
+.logo-div .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  /* background-color: rgb(70, 199, 226); */
+  color: rgb(70, 199, 226);
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  font-family: baby_monsta;
+  position: absolute;
+  z-index: 1;
+  height: 57px;
+  margin-top: 4%;
+  margin-left: -3%;
+}
+
+.logo-div:hover .tooltiptext {
+  visibility: visible;
+}
