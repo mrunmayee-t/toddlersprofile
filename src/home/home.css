@@ -1,0 +1,108 @@
+.header-title-div {
+    text-align: center;
+    height: 350px;
+    border-bottom: 1px solid #4d4d4e8f;
+}
+
+.header-title-text {
+    font-family: baby_monsta;
+    font-size: 10rem;
+    height: 200px;
+    position: absolute;
+    width: 20px;
+    transform-origin: bottom center;
+    color: rgb(70, 199, 226);
+}
+
+.header-sub-title-text {
+    font-family: baby_monsta;
+    font-size: 2rem;
+    color: rgb(70, 199, 226);
+    margin-top: 15%;
+}
+
+.header-image {
+    border-radius: 50%;
+    width: 15%;
+    height: 177px;
+    margin-top: 20%;
+    border: 2px solid rgb(70, 199, 226);
+}
+
+.header-image-div {
+    position: absolute;
+    text-align: center;
+}
+
+.middle-div {
+    text-align: center;
+}
+
+.middle-text-title {
+    font-family: baby_monsta;
+    font-size: 6rem;
+    color: rgb(70, 199, 226);
+    margin-top: 10%;
+}
+
+.middle-text-para {
+    font-family: baby_monsta;
+    font-size: 2rem;
+    color: rgb(70, 199, 226);
+    margin-left: 25% !important;
+}
+
+.border-bottom-div {
+    border-bottom: 1px solid #4d4d4e8f;
+}
+
+.header-img {
+    border-radius: 50%;
+    width: 32%;
+    height: 200px;
+    border: 2px solid rgb(70, 199, 226);
+}
+
+.middle-text-span {
+    font-family: baby_monsta;
+    font-size: 2rem;
+    color: rgb(70, 199, 226);
+    margin-left: -23% !important;
+}
+
+.middle-text-para-inner {
+    font-family: baby_monsta;
+    font-size: 1.5rem;
+    color: rgb(70, 199, 226);
+    width: 54%;
+    margin-top: 4%;
+}
+
+.middle-text-span-1 {
+    font-family: baby_monsta;
+    font-size: 2rem;
+    color: rgb(70, 199, 226);
+    margin-left: 12% !important;
+
+}
+
+.middle-text-span-title {
+    font-family: baby_monsta;
+    font-size: 3rem;
+    color: rgb(70, 199, 226);
+}
+
+.btn-msg-me {
+    font-family: baby_monsta;
+    font-size: 2rem;
+    color: #ffffff;
+    background-color: rgb(70, 199, 226);
+    width: 16%;
+    border-radius: 9px;
+    border-color: rgb(70, 199, 226);
+    margin-bottom: 5%;
+}
+
+.btn-logo {
+    width: 33%;
+}
